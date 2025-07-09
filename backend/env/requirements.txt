@@ -1,5 +1,0 @@
-Flask
-Flask-CORS
-spacy
-openai
-python-dotenv
